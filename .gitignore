@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Mengabaikan semua file di dalam folder recordings
+captures/recordings/*
+
+# Opsional: Jangan abaikan file .gitkeep agar folder kosong tetap terdeteksi di Git
+!captures/recordings/.gitkeep
