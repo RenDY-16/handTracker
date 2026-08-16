@@ -1,6 +1,11 @@
-opencv-python
+opencv-python-headless
 mediapipe
 numpy
+fastapi
+uvicorn[standard]
+websockets
+python-multipart
+jinja2
 pyvirtualcam
 pygrabber
 pygame
